@@ -22,14 +22,15 @@
 - Todos os testes realizados em ambiente isolado, sem exposição a terceiros
 
 ### Evidências
-- **Página de login simulada**
-  ![Página de Login](capturas/pagina_clone.png)
-
-- **Credenciais capturadas**
-  ![Credenciais](capturas/credencial_capturada.png)
 
 - **Terminal — Execução Completa**
   ![Terminal](capturas/comando_terminal.png)
+
+- **Página de login simulada**
+  ![Página de Login](capturas/pagina_clone.png)
+  
+- **Credenciais capturadas**
+  ![Credenciais](capturas/credencial_capturada.png)
 
 ### Sinais de Alerta Identificados
 - Endereço `192.168.0.104` diferente do domínio oficial
