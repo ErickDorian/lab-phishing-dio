@@ -11,7 +11,7 @@
 - Vetor de ataque: `Web Site Attack Vectors`
 - Método de ataque: `Credential Harvester Attack Method`
 - Método de ataque: `Web Templates`
-  *(Utilizei Web Templates pois a maioria dos sites que tentei clonar possuíam mecanismos de proteção/bloqueio)*
+  *(Utilizei Web Templates pois a maioria dos sites que tentei clonar possuíam mecanismos de proteção/bloqueio, portanto foi me recomendado o Google)*
 - Endereço de teste: `192.168.0.104`
 - Modelo utilizado: Página de login de demonstração
 
